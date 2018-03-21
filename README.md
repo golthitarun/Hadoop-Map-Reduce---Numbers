@@ -1,1 +1,1 @@
-# Hadoop-Map-Reduce---Numbers
+# Hadoop-MapReduce-Numbers
